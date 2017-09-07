@@ -1,1 +1,1 @@
-This is a readme file for Janjira & edit website
+ This is a readme file gg home page
